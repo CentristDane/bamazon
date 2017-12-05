@@ -146,7 +146,7 @@ function addItem() {
       {
         name: "department",
         type: "input",
-        message: "What Department would you like to place your auction in?"
+        message: "What Department would you like to place your product in?"
       },
       {
         name: "price",
